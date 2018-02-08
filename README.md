@@ -1,2 +1,3 @@
 # casePediUai
-Análise da interface e experiência do usuário do app Pedi Uai
+Análise da interface e experiência do usuário do app Pedi Uai.
+
